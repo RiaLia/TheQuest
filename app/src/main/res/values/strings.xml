@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Quest</string>
+    <string name="Play">Play</string>
+    <string name="Adventure">Adventure</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="Fight">Fight</string>
+    <string name="Run">Run Away</string>
+    <string name="tryButton">Try Again?</string>
+</resources>
